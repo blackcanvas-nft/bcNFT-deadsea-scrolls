@@ -8,4 +8,4 @@ coming soon **[loading...](https://blackcanvas-nft.github.io/bcNFT-deadsea-scrol
 
 
 
-[^1]⏲️.
+[^1]:⏲️
