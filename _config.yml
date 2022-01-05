@@ -14,7 +14,7 @@ github_repo: "bcNFT-deadsea-scrolls"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://blackcanvas-nft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blackcanvas.nft" #"https://blackcanvas-nft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
